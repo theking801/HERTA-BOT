@@ -1,0 +1,17 @@
+{
+  "name": "herta-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "humanize-duration": "^3.25.1",
+    "moment": "^2.29.1",
+    "parse-duration": "^0.4.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
